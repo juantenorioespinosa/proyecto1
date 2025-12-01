@@ -1,6 +1,16 @@
 # *Proyecto1*
 *Este repositorio es un ejemplo de proyecto en equipo*
 
+## Objetivo del proyecto
+Este repositorio forma parte de una práctica de Git y GitHub. Su finalidad es ayudar a los estudiantes
+a familiarizarse con el flujo de trabajo habitual: crear un fork, realizar cambios, sincronizar con el
+repositorio original y enviar un pull request.
+
+## Estructura del proyecto
+- .gitignore → Lista de archivos y carpetas que Git no debe rastrear.
+- index.html → Página principal del proyecto.
+- README.md → Documentación del proyecto y guía de contribución.
+
 ## *Cómo contribuir*
 
 1. ***Haz un fork del repositorio***
